@@ -1,0 +1,638 @@
+equipo,jugador,posicion
+Mallorca,Mateu Morey,lateral
+Mallorca,Toni Lato,lateral
+Mallorca,Marash Kumbulla,central
+Mallorca,Antonio Raíllo,central
+Mallorca,Johan Mojica,lateral
+Mallorca,Pablo Maffeo,lateral
+Mallorca,Martin Valjent,central
+Mallorca,Iliesse Salhi,sin_definir
+Mallorca,David López,central
+Mallorca,Luis Orejuela,sin_definir
+Mallorca,Leo Sánchez,sin_definir
+Mallorca,Javier Olaizola,sin_definir
+Mallorca,Miguel Calatayud,sin_definir
+Mallorca,Omar Mascarell,pivote
+Mallorca,Antonio Sánchez,mediocentro
+Mallorca,Manu Morlanes,mediocentro
+Mallorca,Sergi Darder,mediocentro
+Mallorca,Samú Costa,pivote
+Mallorca,Pablo Torre,mediapunta
+Mallorca,Cesc Riba,sin_definir
+Mallorca,Jandro García,sin_definir
+Mallorca,Jan Salas,mediocentro
+Mallorca,Vedat Muriqi,delantero
+Mallorca,Abdón Prats,delantero
+Mallorca,Takuma Asano,extremo
+Mallorca,Zito Luvumbo,delantero
+Mallorca,Jan Virgili,extremo
+Mallorca,Cyle Larin,delantero
+Mallorca,Mateo Joseph,delantero
+Mallorca,Javi Llabrés,extremo
+Mallorca,Justin Kalumba,extremo
+Villarreal,Logan Costa,central
+Villarreal,Alex Freeman,lateral
+Villarreal,Rafa Marín,central
+Villarreal,Willy Kambwala,central
+Villarreal,Pau Navarro,central
+Villarreal,Juan Foyth,lateral
+Villarreal,Santiago Mouriño,central
+Villarreal,Sergi Cardona,lateral
+Villarreal,Alfonso Pedraza,lateral
+Villarreal,Jean Valou,sin_definir
+Villarreal,Ismael Sierra,sin_definir
+Villarreal,Daniel Budesca,lateral
+Villarreal,Dani Parejo,mediocentro
+Villarreal,Renato Veiga,pivote
+Villarreal,Santi Comesaña,mediocentro
+Villarreal,Thomas Partey,pivote
+Villarreal,Pape Gueye,mediocentro
+Villarreal,Alberto Moleiro,mediapunta
+Villarreal,Carlos Macià,sin_definir
+Villarreal,Alassane Diatta,sin_definir
+Villarreal,Gerard Moreno,delantero
+Villarreal,Georges Mikautadze,delantero
+Villarreal,Alfon González,extremo
+Villarreal,Tajon Buchanan,extremo
+Villarreal,Nicolas Pépé,extremo
+Villarreal,Tani Oluwaseyi,delantero
+Villarreal,Ayoze Pérez,extremo
+Villarreal,Mahamoud Barry,delantero
+Villarreal,Hugo Lopez,delantero
+Villarreal,Pau Cabanes,delantero
+Villarreal,Joselillo,delantero
+Real Oviedo,Eric Bailly,central
+Real Oviedo,Rahim Alhassane,lateral
+Real Oviedo,David Costas,central
+Real Oviedo,Dani Calvo,central
+Real Oviedo,David Carmo,central
+Real Oviedo,Nacho Vidal,lateral
+Real Oviedo,Lucas Ahijado,lateral
+Real Oviedo,Javi López,lateral
+Real Oviedo,Omar Falah,lateral
+Real Oviedo,Marco Esteban,central
+Real Oviedo,Diego Espinosa,central
+Real Oviedo,Adri Fernández,lateral
+Real Oviedo,Alberto Reina,mediocentro
+Real Oviedo,Kwasi Sibo,pivote
+Real Oviedo,Santi Cazorla,mediapunta
+Real Oviedo,Santiago Colombatto,pivote
+Real Oviedo,Leander Dendoncker,pivote
+Real Oviedo,Luka Ilic,mediapunta
+Real Oviedo,Nicolás Fonseca,pivote
+Real Oviedo,Pablo Agudín,sin_definir
+Real Oviedo,Cheli Pereda,sin_definir
+Real Oviedo,Diego Menéndez,mediocentro
+Real Oviedo,Ilyas Chaira,extremo
+Real Oviedo,Federico Viñas,delantero
+Real Oviedo,Haissem Hassan,extremo
+Real Oviedo,Ovie Ejaria,extremo
+Real Oviedo,Thiago Fernández,extremo
+Real Oviedo,Thiago Borbas,delantero
+Real Oviedo,Álex Forés,delantero
+Real Oviedo,Lamine Gueye,extremo
+Girona,Hugo Rincón,lateral
+Girona,Arnau Martínez,central
+Girona,David López,central
+Girona,Vitor Reis,central
+Girona,Alejandro Francés,central
+Girona,Daley Blind,lateral
+Girona,Ladislav Krejcí,central
+Girona,Axel Witsel,central
+Girona,Álex Moreno,lateral
+Girona,Pol Arnau,lateral
+Girona,Gibi,lateral
+Girona,Antonio Salguero,central
+Girona,Joel Roca,extremo
+Girona,Donny van de Beek,mediocentro
+Girona,Fran Beltrán,mediocentro
+Girona,Thomas Lemar,mediapunta
+Girona,Claudio Echeverri,mediapunta
+Girona,Azzedine Ounahi,mediocentro
+Girona,Jhon Solís,mediocentro
+Girona,Iván Martín,mediapunta
+Girona,Lancinet Kourouma,mediocentro
+Girona,Ricard Artero,mediapunta
+Girona,Portu,extremo
+Girona,Cristhian Stuani,delantero
+Girona,Abel Ruiz,delantero
+Girona,Viktor Tsygankov,extremo
+Girona,Vladyslav Vanat,delantero
+Girona,Bryan Gil,extremo
+Girona,Javier Sarasa,extremo
+Girona,Juan Arango,extremo
+Girona,Papa Dame Ba,delantero
+Alaves,Facundo Garcés,central
+Alaves,Youssef Enríquez,lateral
+Alaves,Jon Pacheco,central
+Alaves,Ángel Pérez,lateral
+Alaves,Nahuel Tenaglia,lateral
+Alaves,Ville Koski,central
+Alaves,Jonny,lateral
+Alaves,Victor Parada,lateral
+Alaves,Álvaro García,sin_definir
+Alaves,Egoitz Muñoz,lateral
+Alaves,Carlos Ballestero,sin_definir
+Alaves,Xanet Oláiz,sin_definir
+Alaves,Paco Sanz,central
+Alaves,Denis Suárez,mediapunta
+Alaves,Ander Guevara,mediocentro
+Alaves,Antonio Blanco,pivote
+Alaves,Carles Aleñá,mediocentro
+Alaves,Jon Guridi,mediocentro
+Alaves,Pablo Ibáñez,mediocentro
+Alaves,Calebe,mediapunta
+Alaves,Carlos Protesoni,mediocentro
+Alaves,Lander Pinillos,sin_definir
+Alaves,Mariano Díaz,delantero
+Alaves,Toni Martínez,delantero
+Alaves,Lucas Boyé,delantero
+Alaves,Abde Rebbach,extremo
+Alaves,Ibrahim Diabate,delantero
+Alaves,Diego Morcillo,delantero
+Alaves,Izei Hernandez,extremo
+Alaves,Aitor Mañas,delantero
+Athletic Club,Andoni Gorosabel,lateral
+Athletic Club,Dani Vivian,central
+Athletic Club,Aitor Paredes,central
+Athletic Club,Yeray Álvarez,central
+Athletic Club,Jesús Areso,lateral
+Athletic Club,Unai Egiluz,central
+Athletic Club,Aymeric Laporte,central
+Athletic Club,Íñigo Lekue,lateral
+Athletic Club,Yuri Berchiche,lateral
+Athletic Club,Adama Boiro,lateral
+Athletic Club,Aimar Duñabeitia,central
+Athletic Club,Jon de Luis,central
+Athletic Club,Ander Izagirre,sin_definir
+Athletic Club,Iker Monreal,central
+Athletic Club,Mikel Vesga,pivote
+Athletic Club,Oihan Sancet,mediapunta
+Athletic Club,Íñigo Ruíz de Galarreta,mediocentro
+Athletic Club,Mikel Jauregizar,mediocentro
+Athletic Club,Unai Gómez,mediapunta
+Athletic Club,Robert Navarro,mediapunta
+Athletic Club,Beñat Prados,mediocentro
+Athletic Club,Alejandro Rego,mediocentro
+Athletic Club,Ibon Sánchez,mediocentro
+Athletic Club,Selton Sánchez,mediocentro
+Athletic Club,Eder García,mediocentro
+Athletic Club,Alex Berenguer,extremo
+Athletic Club,Iñaki Williams,extremo
+Athletic Club,Nico Williams,extremo
+Athletic Club,Gorka Guruzeta,delantero
+Athletic Club,Maroan Sannadi,delantero
+Athletic Club,Nico Serrano,extremo
+Athletic Club,Urko Izeta,delantero
+Athletic Club,Asier Hierro,delantero
+Athletic Club,Adrián Pérez,delantero
+Athletic Club,Elijah Gift,extremo
+Athletic Club,Endika Bujan,extremo
+Atletico Madrid,José María Giménez,central
+Atletico Madrid,Matteo Ruggeri,lateral
+Atletico Madrid,Clément Lenglet,central
+Atletico Madrid,Nahuel Molina,lateral
+Atletico Madrid,Dávid Hancko,central
+Atletico Madrid,Marc Pubill,lateral
+Atletico Madrid,Robin Le Normand,central
+Atletico Madrid,Ilias Kostis,central
+Atletico Madrid,Dani Martinez,central
+Atletico Madrid,Javier Boñar,lateral
+Atletico Madrid,Gerónimo Spina,sin_definir
+Atletico Madrid,Aleksa Puric,sin_definir
+Atletico Madrid,Rodrigo Mendoza,mediocentro
+Atletico Madrid,Johnny Cardoso,mediocentro
+Atletico Madrid,Koke,mediocentro
+Atletico Madrid,Pablo Barrios,mediocentro
+Atletico Madrid,Álex Baena,mediapunta
+Atletico Madrid,Thiago Almada,mediapunta
+Atletico Madrid,Marcos Llorente,mediocentro
+Atletico Madrid,Obed Vargas,mediocentro
+Atletico Madrid,Jano Monserrate,mediapunta
+Atletico Madrid,Taufik Seidu,mediocentro
+Atletico Madrid,Julio Díaz,sin_definir
+Atletico Madrid,Javi Serrano,mediocentro
+Atletico Madrid,Javier Morcillo,sin_definir
+Atletico Madrid,Antoine Griezmann,delantero
+Atletico Madrid,Alexander Sørloth,delantero
+Atletico Madrid,Julián Alvarez,delantero
+Atletico Madrid,Giuliano Simeone,extremo
+Atletico Madrid,Ademola Lookman,extremo
+Atletico Madrid,Nico González,extremo
+Atletico Madrid,Rayane Belaid,extremo
+Atletico Madrid,Iker Luque,extremo
+Atletico Madrid,Sergio Esteban,delantero
+Atletico Madrid,Cubo,delantero
+Barcelona,João Cancelo,lateral
+Barcelona,Alejandro Balde,lateral
+Barcelona,Ronald Araujo,central
+Barcelona,Pau Cubarsí,central
+Barcelona,Andreas Christensen,central
+Barcelona,Gerard Martín,lateral
+Barcelona,Jules Koundé,central
+Barcelona,Eric García,central
+Barcelona,Jofre Torrents,lateral
+Barcelona,Álvaro Cortés,sin_definir
+Barcelona,Xavi Espart,lateral
+Barcelona,Gavi,mediocentro
+Barcelona,Pedri,mediocentro
+Barcelona,Fermín López,mediocentro
+Barcelona,Marc Casadó,pivote
+Barcelona,Dani Olmo,mediapunta
+Barcelona,Frenkie de Jong,mediocentro
+Barcelona,Marc Bernal,sin_definir
+Barcelona,Guille Fernández,sin_definir
+Barcelona,Juan Hernández,mediapunta
+Barcelona,Tomás Marqués,pivote
+Barcelona,Ferran Torres,delantero
+Barcelona,Robert Lewandowski,delantero
+Barcelona,Lamine Yamal,extremo
+Barcelona,Raphinha,extremo
+Barcelona,Marcus Rashford,extremo
+Barcelona,Roony Bardghji,extremo
+Barcelona,Toni Fernández,delantero
+Barcelona,Dani Rodríguez,extremo
+Celta Vigo,Carl Starfelt,central
+Celta Vigo,Óscar Mingueza,lateral
+Celta Vigo,Joseph Aidoo,central
+Celta Vigo,Sergio Carreira,lateral
+Celta Vigo,Manu Fernández,central
+Celta Vigo,Álvaro Núñez,lateral
+Celta Vigo,Javi Rueda,lateral
+Celta Vigo,Marcos Alonso,lateral
+Celta Vigo,Mihailo Ristic,lateral
+Celta Vigo,Carlos Domínguez,central
+Celta Vigo,Yoel Lago,central
+Celta Vigo,Pablo Meixús,central
+Celta Vigo,Javi Rodríguez,lateral
+Celta Vigo,Ilaix Moriba,mediocentro
+Celta Vigo,Fer López,mediapunta
+Celta Vigo,Franco Cervi,extremo
+Celta Vigo,Matías Vecino,mediocentro
+Celta Vigo,Miguel Román,sin_definir
+Celta Vigo,Williot Swedberg,mediapunta
+Celta Vigo,Hugo Sotelo,mediocentro
+Celta Vigo,Hugo Álvarez,extremo
+Celta Vigo,Andrés Antañón,mediapunta
+Celta Vigo,Hugo Burcio,mediocentro
+Celta Vigo,Borja Iglesias,delantero
+Celta Vigo,Ferran Jutglà,delantero
+Celta Vigo,Iago Aspas,delantero
+Celta Vigo,Pablo Durán,delantero
+Celta Vigo,Ángel Arcos,extremo
+Celta Vigo,Hugo González,delantero
+Celta Vigo,Óscar Marcos,delantero
+Celta Vigo,Jones El Abdellaoui,extremo
+Elche,Adrià Pedrosa,lateral
+Elche,Pedro Bigas,central
+Elche,John Donald,central
+Elche,Léo Pétrot,lateral
+Elche,David Affengruber,central
+Elche,Victor Chust,central
+Elche,Bema Sina,sin_definir
+Elche,Albert Niculaesei,sin_definir
+Elche,David Delgado,central
+Elche,Pablo Felipe,central
+Elche,Nico Salvador,sin_definir
+Elche,Héctor Fort,lateral
+Elche,Buba Sangaré,sin_definir
+Elche,Federico Redondo,pivote
+Elche,Marc Aguado,pivote
+Elche,Gonzalo Villar,mediocentro
+Elche,Aleix Febas,mediocentro
+Elche,Martim Neto,mediocentro
+Elche,Josan,extremo
+Elche,Antonio Martínez,sin_definir
+Elche,Alex Herraiz,sin_definir
+Elche,Yago Santiago,extremo
+Elche,André Silva,delantero
+Elche,Rafa Mir,delantero
+Elche,Germán Valera,delantero
+Elche,Tete Morente,extremo
+Elche,Grady Diangana,extremo
+Elche,Álvaro Rodríguez,delantero
+Elche,Lucas Cepeda,extremo
+Elche,Piri,delantero
+Elche,Adam El Mokhtari,delantero
+Elche,Álex Sánchez,extremo
+Elche,Juan Piera,delantero
+Espanyol,José Ángel,sin_definir
+Espanyol,Rubén Sánchez,lateral
+Espanyol,Fernando Calero,central
+Espanyol,Leandro Cabrera,central
+Espanyol,José Salinas,central
+Espanyol,Miguel Rubio,central
+Espanyol,Carlos Romero,lateral
+Espanyol,Omar El Hilali,lateral
+Espanyol,Clemens Riedel,central
+Espanyol,Urko González de Zárate,pivote
+Espanyol,Edu Expósito,mediocentro
+Espanyol,Pol Lozano,mediocentro
+Espanyol,Pere Milla,extremo
+Espanyol,Ramon Terrats,mediocentro
+Espanyol,Charles Pickel,pivote
+Espanyol,Miguel Londoño,sin_definir
+Espanyol,Ferrán Gómez,sin_definir
+Espanyol,Javi Puado,extremo
+Espanyol,Roberto Fernández,delantero
+Espanyol,Cyril Ngonge,extremo
+Espanyol,Jofre Carreras,extremo
+Espanyol,Kike García,delantero
+Espanyol,Antoniu Roca,extremo
+Espanyol,Tyrhys Dolan,extremo
+Espanyol,Adama Timera,delantero
+Espanyol,Lluc Castell,delantero
+Espanyol,Alex Almansa,extremo
+Getafe,Djené Dakonam,central
+Getafe,Abdel Abqar,central
+Getafe,Allan Nyom,lateral
+Getafe,Sebastián Boselli,central
+Getafe,Diego Rico,lateral
+Getafe,Kiko Femenía,lateral
+Getafe,Juan Iglesias,lateral
+Getafe,Domingos Duarte,central
+Getafe,Zaid Romero,central
+Getafe,Davinchi,lateral
+Getafe,Ismael Bekhoucha,lateral
+Getafe,Lucas Laso,sin_definir
+Getafe,Marc Vilaplana,central
+Getafe,Jorge Montes,sin_definir
+Getafe,Tito,sin_definir
+Getafe,Luis Milla,mediocentro
+Getafe,Mario Martín,pivote
+Getafe,Mauro Arambarri,mediocentro
+Getafe,Javi Muñoz,mediocentro
+Getafe,Veljko Birmancevic,extremo
+Getafe,Alberto Risco,sin_definir
+Getafe,Hugo Solozabal,mediocentro
+Getafe,Adrián Riquelme,mediocentro
+Getafe,Alejandro Mestanza,mediapunta
+Getafe,Damián Cáceres,sin_definir
+Getafe,Juanmi,extremo
+Getafe,Borja Mayoral,delantero
+Getafe,Martín Satriano,delantero
+Getafe,Abu Kamara,delantero
+Getafe,Alex Sancris,extremo
+Getafe,Luis Vázquez,delantero
+Getafe,Adrián Liso,extremo
+Getafe,Mykyta Aleksandrov,delantero
+Getafe,Joselu Pérez,delantero
+Getafe,Yassin Tallal,extremo
+Levante,Matías Moreno,central
+Levante,Alan Matturro,central
+Levante,Adrián de la Fuente,central
+Levante,Unai Elgezabal,central
+Levante,Diego Pampín,lateral
+Levante,Víctor García,sin_definir
+Levante,Jeremy Toljan,lateral
+Levante,Manu Sánchez,lateral
+Levante,Martín Krug,central
+Levante,Nacho Pérez,lateral
+Levante,Huseini Nakoha,central
+Levante,Roger Brugué,mediocentro
+Levante,Jon Olasagasti,mediocentro
+Levante,Pablo Martínez,pivote
+Levante,Unai Vencedor,mediocentro
+Levante,Ugo Raghouber,mediocentro
+Levante,Kervin Arriaga,pivote
+Levante,Oriol Rey,pivote
+Levante,Carlos Álvarez,mediapunta
+Levante,Pablo Rosón,sin_definir
+Levante,Joan Ruiz,sin_definir
+Levante,Dani Cervera,sin_definir
+Levante,Iván Romero,delantero
+Levante,José Luis Morales,delantero
+Levante,Iker Losada,delantero
+Levante,Carlos Espí,delantero
+Levante,Karl Etta Eyong,delantero
+Levante,Kareem Tunde,extremo
+Levante,Paco Cortés,extremo
+Levante,Tai Abed,extremo
+Osasuna,Juan Cruz,lateral
+Osasuna,Jorge Herrando,central
+Osasuna,Valentin Rosier,lateral
+Osasuna,Javi Galán,lateral
+Osasuna,Enzo Boyomo,central
+Osasuna,Abel Bretones,lateral
+Osasuna,Alejandro Catena,central
+Osasuna,Raúl Chasco,lateral
+Osasuna,Unai Santos,sin_definir
+Osasuna,Íñigo Arguibide,extremo
+Osasuna,Mikel Serrano,central
+Osasuna,Lucas Torró,pivote
+Osasuna,Jon Moncayola,mediocentro
+Osasuna,Iker Muñoz,mediocentro
+Osasuna,Aimar Oroz,mediapunta
+Osasuna,Rubén García,mediapunta
+Osasuna,Mauro Echegoyen,sin_definir
+Osasuna,Jon García,sin_definir
+Osasuna,Asier Osambela,mediapunta
+Osasuna,Iker Benito,extremo
+Osasuna,Raúl García,delantero
+Osasuna,Kike Barja,extremo
+Osasuna,Moi Gómez,extremo
+Osasuna,Ante Budimir,delantero
+Osasuna,Sheraldo Becker,extremo
+Osasuna,Raúl Moro,delantero
+Osasuna,Víctor Muñoz,extremo
+Osasuna,Martín Pedroarena,delantero
+Osasuna,Roberto Arroyo,delantero
+Osasuna,Aly Doumbia,delantero
+Rayo Vallecano,Andrei Ratiu,lateral
+Rayo Vallecano,Pep Chavarría,lateral
+Rayo Vallecano,Luiz Felipe,central
+Rayo Vallecano,Abdul Mumin,central
+Rayo Vallecano,Iván Balliu,lateral
+Rayo Vallecano,Pacha Espino,lateral
+Rayo Vallecano,Florian Lejeune,central
+Rayo Vallecano,Marco de Las Sias,central
+Rayo Vallecano,Sergio Lozano,sin_definir
+Rayo Vallecano,Nobel Mendy,central
+Rayo Vallecano,Jozhua Vertrouwd,lateral
+Rayo Vallecano,Pedro Díaz,mediocentro
+Rayo Vallecano,Pathé Ciss,pivote
+Rayo Vallecano,Isi Palazón,mediapunta
+Rayo Vallecano,Óscar Trejo,mediapunta
+Rayo Vallecano,Randy Nteka,mediapunta
+Rayo Vallecano,Gerard Gumbau,pivote
+Rayo Vallecano,Unai López,mediocentro
+Rayo Vallecano,Álvaro García,extremo
+Rayo Vallecano,Fran Pérez,extremo
+Rayo Vallecano,Óscar Valentín,pivote
+Rayo Vallecano,Samu Becerra,sin_definir
+Rayo Vallecano,Diego Méndez,pivote
+Rayo Vallecano,Marco Román,mediocentro
+Rayo Vallecano,Alemão,delantero
+Rayo Vallecano,Sergio Camello,delantero
+Rayo Vallecano,Ilias Akhomach,extremo
+Rayo Vallecano,Carlos Martín,delantero
+Rayo Vallecano,Jorge de Frutos,extremo
+Real Betis,Héctor Bellerín,lateral
+Real Betis,Diego Llorente,central
+Real Betis,Natan,central
+Real Betis,Marc Bartra,central
+Real Betis,Ricardo Rodríguez,lateral
+Real Betis,Valentín Gómez,central
+Real Betis,Junior Firpo,lateral
+Real Betis,Carlos de Roa,lateral
+Real Betis,Darling Bladi,lateral
+Real Betis,Ángel Ortiz,lateral
+Real Betis,Pablo Busto,lateral
+Real Betis,Sergi Altimira,mediocentro
+Real Betis,Pablo Fornals,mediapunta
+Real Betis,Sofyan Amrabat,pivote
+Real Betis,Álvaro Fidalgo,mediocentro
+Real Betis,Rodrigo Riquelme,mediapunta
+Real Betis,Nelson Deossa,mediocentro
+Real Betis,Giovani Lo Celso,mediapunta
+Real Betis,Marc Roca,pivote
+Real Betis,Isco,mediapunta
+Real Betis,Dani Pérez,mediocentro
+Real Betis,Iván Corralejo,mediapunta
+Real Betis,Antony,extremo
+Real Betis,Chimy Ávila,delantero
+Real Betis,Abde Ezzalzouli,extremo
+Real Betis,Cédric Bakambu,delantero
+Real Betis,Cucho Hernández,delantero
+Real Betis,Aitor Ruibal,extremo
+Real Betis,José Antonio Morante,extremo
+Real Betis,Rodrigo Marina,delantero
+Real Betis,Pablo García,extremo
+Real Madrid,Dani Carvajal,lateral
+Real Madrid,Éder Militão,central
+Real Madrid,David Alaba,central
+Real Madrid,Trent Alexander-Arnold,lateral
+Real Madrid,Raúl Asencio,central
+Real Madrid,Álvaro Carreras,lateral
+Real Madrid,Fran García,lateral
+Real Madrid,Antonio Rüdiger,central
+Real Madrid,Ferland Mendy,lateral
+Real Madrid,Dean Huijsen,central
+Real Madrid,Diego Aguado,central
+Real Madrid,Jesús Fortea,lateral
+Real Madrid,David Jiménez,lateral
+Real Madrid,Joan Martínez,central
+Real Madrid,Valde,sin_definir
+Real Madrid,Lamini Fati,sin_definir
+Real Madrid,Mario Rivas,central
+Real Madrid,Manuel Serrano,lateral
+Real Madrid,Jude Bellingham,mediocentro
+Real Madrid,Eduardo Camavinga,mediocentro
+Real Madrid,Federico Valverde,mediocentro
+Real Madrid,Aurélien Tchouaméni,mediocentro
+Real Madrid,Arda Güler,mediocentro
+Real Madrid,Dani Ceballos,mediapunta
+Real Madrid,Brahim Díaz,mediapunta
+Real Madrid,Jorge Cestero,sin_definir
+Real Madrid,Pol Fortuny,sin_definir
+Real Madrid,Manuel Ángel,sin_definir
+Real Madrid,César Palacios,sin_definir
+Real Madrid,Thiago Pitarch,sin_definir
+Real Madrid,Dani Meso,sin_definir
+Real Madrid,Vinícius Júnior,extremo
+Real Madrid,Kylian Mbappé,delantero
+Real Madrid,Rodrygo,delantero
+Real Madrid,Gonzalo García,extremo
+Real Madrid,Franco Mastantuono,extremo
+Real Madrid,Daniel Yáñez,delantero
+Real Madrid,Álvaro Leiva,delantero
+Real Sociedad,Jon Aramburu,lateral
+Real Sociedad,Aihen Muñoz,lateral
+Real Sociedad,Igor Zubeldia,central
+Real Sociedad,Aritz Elustondo,lateral
+Real Sociedad,Duje Caleta-Car,central
+Real Sociedad,Álvaro Odriozola,lateral
+Real Sociedad,Jon Martín,central
+Real Sociedad,Iñaki Rupérez,lateral
+Real Sociedad,Luken Beitia,central
+Real Sociedad,Kazunari Kita,sin_definir
+Real Sociedad,Jon Gorrotxategi,pivote
+Real Sociedad,Beñat Turrientes,mediocentro
+Real Sociedad,Yangel Herrera,mediocentro
+Real Sociedad,Pablo Marín,mediapunta
+Real Sociedad,Carlos Soler,mediocentro
+Real Sociedad,Arsen Zakharyan,mediapunta
+Real Sociedad,Brais Méndez,mediapunta
+Real Sociedad,Luka Sucic,mediocentro
+Real Sociedad,Alex Lebarbier,sin_definir
+Real Sociedad,Tomás Carbonell,sin_definir
+Real Sociedad,Lander Astiazarán,sin_definir
+Real Sociedad,Ibai Aguirre,sin_definir
+Real Sociedad,Ander Barrenetxea,extremo
+Real Sociedad,Orri Óskarsson,delantero
+Real Sociedad,Mikel Oyarzabal,delantero
+Real Sociedad,Gonçalo Guedes,extremo
+Real Sociedad,Takefusa Kubo,extremo
+Real Sociedad,Sergio Gómez,extremo
+Real Sociedad,Jon Karrikaburu,delantero
+Real Sociedad,Wesley,extremo
+Real Sociedad,Daniel Díaz,extremo
+Real Sociedad,Arkaitz Mariezkurrena,extremo
+Real Sociedad,Alex Marchal,extremo
+Real Sociedad,Gorka Carrera,delantero
+Real Sociedad,Job Ochieng,delantero
+Sevilla,José Ángel Carmona,lateral
+Sevilla,César Azpilicueta,lateral
+Sevilla,Kike Salas,central
+Sevilla,Tanguy Nianzou,central
+Sevilla,Gabriel Suazo,lateral
+Sevilla,Fábio Cardoso,central
+Sevilla,Federico Gattoni,central
+Sevilla,Marcão,central
+Sevilla,Andrés Castrín,central
+Sevilla,Oso,lateral
+Sevilla,Iker Ortín,central
+Sevilla,Nemanja Gudelj,mediocentro
+Sevilla,Joan Jordán,mediocentro
+Sevilla,Rubén Vargas,extremo
+Sevilla,Juanlu Sánchez,lateral
+Sevilla,Lucien Agoumé,pivote
+Sevilla,Batista Mendy,pivote
+Sevilla,Djibril Sow,mediocentro
+Sevilla,Adnan Januzaj,mediapunta
+Sevilla,Manu Bueno,mediocentro
+Sevilla,Nico Guillén,sin_definir
+Sevilla,Edu Altozano,sin_definir
+Sevilla,Isaac Romero,delantero
+Sevilla,Akor Adams,delantero
+Sevilla,Alexis Sánchez,delantero
+Sevilla,Peque Fernández,extremo
+Sevilla,Neal Maupay,delantero
+Sevilla,Chidera Ejuke,extremo
+Sevilla,Álex Costa,delantero
+Sevilla,Miguel Sierra,delantero
+Valencia,Mouctar Diakhaby,central
+Valencia,Dimitri Foulquier,lateral
+Valencia,Copete,central
+Valencia,Unai Núñez,central
+Valencia,César Tárrega,central
+Valencia,Thierry Correia,lateral
+Valencia,José Gayà,lateral
+Valencia,Renzo Saravia,lateral
+Valencia,Jesús Vázquez,lateral
+Valencia,Eray Cömert,central
+Valencia,Rubén Iranzo,central
+Valencia,Alex Panach,central
+Valencia,Marcos Navarro,lateral
+Valencia,Joel Fontanet,sin_definir
+Valencia,Aaron Mayol,sin_definir
+Valencia,Rubi,lateral
+Valencia,Guido Rodríguez,pivote
+Valencia,Javi Guerra,mediocentro
+Valencia,André Almeida,mediocentro
+Valencia,Lucas Beltrán,mediapunta
+Valencia,Pepelu,pivote
+Valencia,Baptiste Santamaría,pivote
+Valencia,Filip Ugrinic,sin_definir
+Valencia,Lucas Núñez,mediocentro
+Valencia,Umar Sadiq,delantero
+Valencia,Arnaut Danjuma,extremo
+Valencia,Hugo Duro,delantero
+Valencia,Luis Rioja,extremo
+Valencia,Diego López,delantero
+Valencia,Largie Ramazani,extremo
+Valencia,Dani Raba,extremo
+Valencia,David Otorbi,extremo
+Valencia,Aimar Blázquez,delantero
+Valencia,Marc Jurado,extremo
+Valencia,Mario Domínguez,delantero

@@ -1,0 +1,28 @@
+# Datos: se regeneran ejecutando el notebook 01
+data/*
+# Excepcion: fichero de posiciones de elaboracion propia, no se puede descargar
+!data/posiciones_laliga_2526.csv
+
+# Ficheros descargados sueltos
+downloaded_files/
+
+# Comprimidos de entrega
+_zip/
+*.zip
+
+# Copias de los notebooks antes de reordenarlos
+notebooks/_originales/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Sistema
+.DS_Store
+Thumbs.db
