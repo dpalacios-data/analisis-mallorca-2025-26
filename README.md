@@ -14,7 +14,7 @@ Trabajo de Fin de Máster del Máster en Big Data e Inteligencia Artificial en e
 | El problema estaba en el centro de su área | +7,4 goles esperados de más, el 64 % del desfase en juego en curso |
 | Ninguno de sus centrales anticipaba | Percentiles 10, 19 y 38 en intercepciones frente a 21 centrales de control |
 | La criba deja ocho candidatos | 65 centrales, 33 en el rango de minutos, 8 pasan los cuatro criterios |
-| Diego Llorente mejora la permanencia, no la garantiza | 2,06 intercepciones por 90; la probabilidad pasa del 37,4 % al 49,1 % |
+| El refuerzo podría mejorar la permanencia, sin garantizarla | Diego Llorente, 2,06 intercepciones por 90; en el escenario optimista, del 37,4 % al 49,1 % |
 
 ---
 
